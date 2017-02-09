@@ -11,6 +11,8 @@ export OCI_HOME="/opt/oracle/instantclient"
 export OCI_LIB_DIR="/opt/oracle/instantclient"
 export OCI_INCLUDE_DIR="/opt/oracle/instantclient/sdk/include"
 
+pip install cx_Oracle
+
 
 
 
